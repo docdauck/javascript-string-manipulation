@@ -85,5 +85,5 @@ module.exports = {
   crlf,
   disableConverter,
   LineEndings,
-  transformLineEnding,
+  transformLineEnding
 };
